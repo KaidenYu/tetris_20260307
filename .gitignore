@@ -1,0 +1,27 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug symbols
+*.pdb
+*.ild
+*.ilk
+
+# VS Code
+.vscode/
+# Note: Keep .code-workspace if you want to share workspace settings, 
+# but usually .vscode/ is ignored.
+
+# Operating System files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
